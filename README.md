@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zibamirza, my data philosophy- “In a dark place we find ourselves and a little more knowledge lights our way"
+- 👋 Hi, I’m @Zibamirza, “In a dark place we find ourselves and a little more knowledge lights our way"
 - Starting my jouney in data science and loving it. Enrolled in the Data Science bootcamp at SIT Academy where I am learning Python, Statistics, Data Visulization, Machine Learing, Deep Learning, Natural Language Processing, SQL, MongoDB and MLOps 
 - 👀 I’m interested in all areas where data can be used as a positive force 
 - 🌱 I have a background in Management and International Development.  
